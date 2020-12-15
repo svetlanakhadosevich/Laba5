@@ -1,0 +1,4 @@
+#
+#Tue Dec 15 12:10:31 MSK 2020
+interface\ ru.vsu.OneTestInterface=ru.vsu.Two
+interface\ ru.vsu.TwoTestInterface=ru.vsu.For
